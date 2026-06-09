@@ -1,7 +1,7 @@
 PawFect Match
 
 A lifestyle quiz that uses Gemini AI to find your perfect pet breed — and links you straight to real adoption listings.
-[Live Demo](pawfectmatch.click)
+[🐾 Live Demo → pawfectmatch.click](https://pawfectmatch.click)
 
 What it does
 

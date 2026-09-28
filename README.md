@@ -30,9 +30,9 @@ State	React Context (no localStorage — memory only)
 
 What I'd improve
 
-Breed images — pull a photo of each matched breed from a public API (e.g. Dog CEO, The Cat API) so the results page is more visual
-Save & share results — generate a shareable link or let users screenshot a results card
-More animal types — the quiz is currently tuned toward dogs and cats; expanding prompts and Petfinder routing to cover rabbits, birds, and reptiles properly would broaden appeal
-Smarter Petfinder links — use the Petfinder API directly to show live adoption counts per breed before the user clicks through
-Quiz personalisation — let users weight what matters most to them (e.g. "shedding is a dealbreaker") so the AI ranking reflects their priorities more precisely
-Persistent history — optionally save past quiz results to a user account so people can track how their preferences change over time
+Breed images: pull a photo of each matched breed from a public API (e.g. Dog CEO, The Cat API) so the results page is more visual
+Save & share results: generate a shareable link or let users screenshot a results card
+More animal types: the quiz is currently tuned toward dogs and cats; expanding prompts and Petfinder routing to cover rabbits, birds, and reptiles properly would broaden appeal
+Smarter Petfinder links: use the Petfinder API directly to show live adoption counts per breed before the user clicks through
+Quiz personalisation: let users weight what matters most to them (e.g. "shedding is a dealbreaker") so the AI ranking reflects their priorities more precisely
+Persistent history: optionally save past quiz results to a user account so people can track how their preferences change over time
